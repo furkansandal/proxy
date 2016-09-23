@@ -5,7 +5,7 @@
 /*$icerik	 = stream_context_create(
     array(
         "http" => array(
-            "header" => "GoogleBot"
+            "header" => "Furkanv1.0 Crawler"
         )
     )
 );*/
