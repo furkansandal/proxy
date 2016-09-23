@@ -3,5 +3,4 @@ Anlık olarak kontrol edilen proxyleri basit şekilde preg_match_all ile online 
 
 Gerekli Yazılımlar
 
--> PHP
--> Tercihe göre web server
+-> PHP ve Tercihe göre web server
